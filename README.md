@@ -43,9 +43,9 @@ A modern Flutter application demonstrating:
 
 ## 🖼 Screenshots
 
-![Home Screen](Screenshots/screen1.PNG)
-![Gallery Screen](Screenshots/screen2.PNG)
-![Weather Screen](Screenshots/screen3.PNG)
+![Home Screen](assets/Screenshots/screen1.PNG)
+![Gallery Screen](assets/Screenshots/screen2.PNG)
+![Weather Screen](assets/Screenshots/screen3.PNG)
 
 ## ⚙️ Setup
 
