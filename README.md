@@ -43,7 +43,7 @@ A modern Flutter application demonstrating:
 
 ## 🖼 Screenshots
 
-> *(/Screenshots/screen1.PNG /Screenshots/screen2.PNG /Screenshots/screen3.PNG)*
+> (/Screenshots/screen1.PNG /Screenshots/screen2.PNG /Screenshots/screen3.PNG)
 
 ## ⚙️ Setup
 
