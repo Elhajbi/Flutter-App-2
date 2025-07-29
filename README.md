@@ -43,7 +43,9 @@ A modern Flutter application demonstrating:
 
 ## 🖼 Screenshots
 
-> (/Screenshots/screen1.PNG /Screenshots/screen2.PNG /Screenshots/screen3.PNG)
+![Home Screen](Screenshots/screen1.PNG)
+![Gallery Screen](Screenshots/screen2.PNG)
+![Weather Screen](Screenshots/screen3.PNG)
 
 ## ⚙️ Setup
 
